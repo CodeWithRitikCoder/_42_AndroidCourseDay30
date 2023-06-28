@@ -1,4 +1,4 @@
-# _41_AndroidCourseDay30
+# _42_AndroidCourseDay30
 Day-30 of Android Course:- My Simple Puzzle 😕 Solving Game
 <hr><hr>
 <h3 align="left">Connect with me:</h3>
@@ -16,24 +16,24 @@ Day-30 of Android Course:- My Simple Puzzle 😕 Solving Game
 <!--       <center>
       <video src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/assets/132076091/c42e6849-0514-4743-b18b-09e8c34e5d09" width="150" autoplay loop controls></video>
       </center> -->
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_1.png" alt="ScreenShort 1 of Application" width="280" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay30/blob/master/app/src/main/res/drawable/screen_shot_1.png" alt="ScreenShort 1 of Application" width="280" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_2.png" alt="ScreenShort 2 of Application"  width="280" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay30/blob/master/app/src/main/res/drawable/screen_shot_2.png" alt="ScreenShort 2 of Application"  width="280" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_3.png" alt="ScreenShort 3 of Application" width="280" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay30/blob/master/app/src/main/res/drawable/screen_shot_3.png" alt="ScreenShort 3 of Application" width="280" />
     </td>
   </tr>
   <tr>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_4.png" alt="ScreenShort 4 of Application" width="280" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay30/blob/master/app/src/main/res/drawable/screen_shot_4.png" alt="ScreenShort 4 of Application" width="280" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_5.png" alt="ScreenShort 5 of Application" width="280" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay30/blob/master/app/src/main/res/drawable/screen_shot_5.png" alt="ScreenShort 5 of Application" width="280" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_6.png" alt="ScreenShort 6 of Application" width="280" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay30/blob/master/app/src/main/res/drawable/screen_shot_6.png" alt="ScreenShort 6 of Application" width="280" />
     </td>
   </tr>
 </table>
