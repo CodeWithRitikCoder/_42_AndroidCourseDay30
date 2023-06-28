@@ -40,5 +40,5 @@ Day-30 of Android Course:- My Simple Puzzle 😕 Solving Game
 <hr><hr>
 <h2>&#8649 My Application Preview Video shot</h2>
 <center>
-      <video src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay29/assets/132076091/c42e6849-0514-4743-b18b-09e8c34e5d09" width="150" autoplay loop controls></video>
+      <video src="https://github.com/CodeWithRitikCoder/_42_AndroidCourseDay30/assets/132076091/2ea02fd4-9ac8-44ca-9fe1-2953063221da" width="150" autoplay loop controls></video>
 </center>
