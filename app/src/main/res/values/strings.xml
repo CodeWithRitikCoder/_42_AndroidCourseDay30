@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Project 30 of Android Dev_Color My View</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="box_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box Five</string>
+
+    <string name="button_green">Green</string>
+    <string name="button_red">Red</string>
+    <string name="button_yellow">Yellow</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="hello_splash_screen">Hello Splash Screen</string>
+    <string name="how_to_play">How to play</string>
+    <string name="tap_on_the_screen_and_buttons">Tap on the Boxes and Buttons</string>
+    <string name="complete_this_pattern">Complete this Pattern</string>
+    <string name="welcome_back">Welcome back..!</string>
+    <string name="play_my_simple_puzzle_game">Play My Simple \nPuzzle Game</string>
+    <string name="ritikcoder">RitikCoder</string>
+</resources>
